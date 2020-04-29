@@ -9,9 +9,7 @@
   Github Explorer. Built with ReactJS and Styled Components.
 </p>
 
-## Features
-
-Things the explorer can do:
+## Things the Explorer can do:
 
 * Find github repositories by **authorname**/**repository** and save to your list.
 * View the list of issues of a repository.
@@ -31,6 +29,7 @@ Things the explorer can do:
 ## Installation
 
 `git clone https://github.com/lucaxsilveira/github-explorer.git`
+`yarn`
 
 ## Available Scripts
 
