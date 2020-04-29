@@ -4,6 +4,18 @@
     <img alt="Github Explore" title="Github Explore" src="/public/logo.svg" width="450">
   </a>
 </p>
+<p align="center">
+<a>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/lucaxsilveira/github-explorer?style=social">
+</a>
+<a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lucaxsilveira?style=social">
+</a>
+  <a>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lucaxsilveira/github-explorer">
+  </a>
+</p>
+
 
 <p align="center">
   Github Explorer. Built with ReactJS and Styled Components.
