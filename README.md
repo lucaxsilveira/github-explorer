@@ -11,9 +11,6 @@
 <a>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lucaxsilveira?style=social">
 </a>
-  <a>
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lucaxsilveira/github-explorer">
-  </a>
 </p>
 
 
