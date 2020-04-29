@@ -40,8 +40,8 @@
 
 ## Installation
 
-`git clone https://github.com/lucaxsilveira/github-explorer.git`
-`yarn`
+1. `git clone https://github.com/lucaxsilveira/github-explorer.git`
+2. `yarn`
 
 ## Available Scripts
 
